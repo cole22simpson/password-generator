@@ -10,6 +10,6 @@ I attempted to create a random password generator that would create a password b
 
 ## Link to the deployed application
 
-[Final product]
+[Final product] https://cole22simpson.github.io/password-generator/
 
 ### Challenge done by Cole Simpson
